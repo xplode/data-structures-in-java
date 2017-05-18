@@ -1,2 +1,3 @@
-# data-structures-in-java
-Examples of basic data structures and algorithms implemented in Java.
+# Data structures and algorithms in Java 
+* (Binary search tree)[binary-search-tree]
+* (Heap)[heap]
