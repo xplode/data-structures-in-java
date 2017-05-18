@@ -1,8 +1,9 @@
-# Overview (What is a binary search tree?)
+# What is a binary search tree?
 Let's start high level.  A [tree](https://en.wikipedia.org/wiki/Tree_(graph_theory))
 is an undirected [graph](https://en.wikipedia.org/wiki/Graph_theory) where every node 
 is connected by exactly one path.  Any acyclic connected graph is a tree.
-If none of that made any sense then you probably need to learn about graphs.
+If none of that made any sense then you need to spend a little time going over
+graphs.
 
 A graph where every node can have at most two children is a binary tree.
 
